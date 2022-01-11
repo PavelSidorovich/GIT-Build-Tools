@@ -7,7 +7,7 @@ public class StringUtils {
     private static final String PLUS_SIGN = "+";
     private static final String MINUS_SIGN = "-";
 
-    static boolean isPositiveNumber(String str) {
+    public static boolean isPositiveNumber(String str) {
         /*
          * Plus sign need to be removed so that method
          * NumberUtils.isParsable(String str) return true in case of +1.0
