@@ -16,6 +16,7 @@ jar {
         attributes 'archiveBaseName': 'utils'
         attributes 'archiveVersion': '1.3.5'
     }
+    destinationDirectory.set(file("$rootDir/libs"))
 }
 
 dependencies {
