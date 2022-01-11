@@ -5,6 +5,10 @@ plugins {
 group 'com.sidorovich.pavel'
 version '1.0-SNAPSHOT'
 
+apply plugin: 'application'
+
+mainClassName = 'com.sidorovich.pavel.App'
+
 repositories {
     mavenLocal()
     mavenCentral()
