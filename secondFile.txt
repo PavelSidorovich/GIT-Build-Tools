@@ -1,0 +1,10 @@
+Hello
+everyone!
+This
+is
+second
+file
+in
+git_1
+branch
+!
