@@ -4,7 +4,7 @@
 
 ![](images/build.png)
 
-<b>Note:</b> created archive can be found in `build/libs` folder.
+<b>Note:</b> created archive can be found in `libs` folder.
 
 ✅ Task 3: Create a project `multi-project`
 
