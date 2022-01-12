@@ -1,5 +1,7 @@
 Conflicting
 lines!
+Hi
+everybody!
 This
 is
 second
